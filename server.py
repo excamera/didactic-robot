@@ -1,7 +1,6 @@
 import socket
 import sys
 
-
 TCP_IP = "0.0.0.0"
 TCP_PORT = 12345
 BUFFER_SIZE = 64
